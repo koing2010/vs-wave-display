@@ -1,0 +1,10 @@
+.vs
+Waveshow/Debug/*
+Waveshow/ipch/*
+Waveshow/x64/*
+Waveshow/Backup/*
+Waveshow/res/*
+Waveshow/*.htm
+Waveshow/*.vcxproj
+Waveshow/*.filters
+
