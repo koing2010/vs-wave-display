@@ -1,7 +1,7 @@
 ========================================================================
        MICROSOFT FOUNDATION CLASS LIBRARY : Waveshow
 ========================================================================
-
+可以改出一个来
 
 AppWizard has created this Waveshow application for you.  This application
 not only demonstrates the basics of using the Microsoft Foundation classes
